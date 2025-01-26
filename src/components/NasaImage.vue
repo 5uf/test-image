@@ -3,7 +3,7 @@
 
     <div class="justify-center float-none">
       <div class="flex flex-col text-center w-full py-24">
-        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Welcome to NASA Application
+        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Welcome to NASA Image Application
         </h1>
         <p class="lg:w-2/3 mx-auto leading-relaxed text-base">You can search for any space image of your choice and it will be displayed to
           you.</p>
